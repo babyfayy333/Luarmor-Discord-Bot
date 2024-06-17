@@ -1,0 +1,6 @@
+{
+  "luarmor_api_key": "your luarmor api key",
+  "discord_token": "your discord bot token",
+  "discord_id": "your discord bot client id",
+  "discord_guild_id: "your discord guild id",
+}
