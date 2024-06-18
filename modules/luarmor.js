@@ -1,4 +1,3 @@
-const fetch = require('node-fetch');
 const base_url = 'https://api.luarmor.net';
 
 // API KEY MANAGEMENT 
